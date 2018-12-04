@@ -2,3 +2,5 @@
 
 
 Betka uzrasiau
+
+ir vel betka uzrasiau
